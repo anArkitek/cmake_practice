@@ -1,0 +1,14 @@
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/CMakeFiles/install/strip.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/CMakeFiles/install.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/CMakeFiles/install/local.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/CMakeFiles/list_install_components.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/CMakeFiles/edit_cache.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/CMakeFiles/rebuild_cache.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/install/strip.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/install/local.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/hello_static.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/hello.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/edit_cache.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/rebuild_cache.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/list_install_components.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib/CMakeFiles/install.dir

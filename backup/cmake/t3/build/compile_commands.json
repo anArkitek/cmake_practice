@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib",
+  "command": "/usr/bin/gcc-5   -g   -o CMakeFiles/hello_static.dir/hello.c.o   -c /media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/lib/hello.c",
+  "file": "/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/lib/hello.c"
+},
+{
+  "directory": "/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/build/lib",
+  "command": "/usr/bin/gcc-5 -Dhello_EXPORTS  -g -fPIC   -o CMakeFiles/hello.dir/hello.c.o   -c /media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/lib/hello.c",
+  "file": "/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t3/lib/hello.c"
+}
+]

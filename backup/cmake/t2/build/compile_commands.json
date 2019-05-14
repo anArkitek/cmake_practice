@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t2/build/bin",
+  "command": "/usr/bin/gcc-5   -g   -o CMakeFiles/hello.dir/main.c.o   -c /media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t2/src/main.c",
+  "file": "/media/zhiwen/HDD/ubuntu/projects/cmake_tutorial/backup/cmake/t2/src/main.c"
+}
+]

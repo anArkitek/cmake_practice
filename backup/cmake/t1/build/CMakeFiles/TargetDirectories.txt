@@ -1,0 +1,3 @@
+/media/zhiwen/HDD/ubuntu/projects/cmake-tutorial/backup/cmake/t1/build/CMakeFiles/rebuild_cache.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake-tutorial/backup/cmake/t1/build/CMakeFiles/hello.dir
+/media/zhiwen/HDD/ubuntu/projects/cmake-tutorial/backup/cmake/t1/build/CMakeFiles/edit_cache.dir
